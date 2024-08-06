@@ -138,14 +138,14 @@ html {
             position: absolute;
             background-image: url(../img/orange-b-1.png);
             background-repeat: no-repeat;
-            background-size: contain;
-            background-position: top right;
-            left: 0;
-            top: -21px;
+            background-size: cover;
+            background-position: top left;
+            right: 0;
+            top: 0px;
             content: "";
-            width: 95%;
-            height: 104%;
-
+            width: 60%;
+            height: 100%;
+            border-radius: 0 40px 40px 0;
         }
     }
 
